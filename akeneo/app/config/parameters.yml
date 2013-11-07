@@ -1,0 +1,20 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_mysql
+    database_host: localhost
+    database_port: null
+    database_name: symfony
+    database_user: symfony
+    database_password: symfony-vagrant
+    mailer_transport: smtp
+    mailer_host: localhost
+    mailer_user: null
+    mailer_password: null
+    websocket_host: 127.0.0.1
+    websocket_port: 8080
+    session_handler: null
+    locale: en_US
+    default_locale: default
+    secret: ThisTokenIsNotSoSecretChangeIt
+    upload_dir: '%kernel.root_dir%/uploads/product'
+    installed: true
